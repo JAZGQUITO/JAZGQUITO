@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un analista de datos con más de 20 años de experiencia en gestión empresarial, incluyendo aduanas e importaciones. Durante 15 años lideré mi propio negocio, donde implementé análisis financieros y optimicé la toma de decisiones estratégicas. Mi objetivo es aplicar el análisis de datos para aportar soluciones empresariales que impulsen el crecimiento y la eficiencia operativa.
+Soy un administrador con más de 20 años de experiencia en gestión empresarial, incluyendo aduanas e importaciones. Durante 15 años lideré mi propio negocio, donde implementé análisis financieros y optimicé la toma de decisiones estratégicas. Mi objetivo es aplicar el análisis de datos para aportar soluciones empresariales que impulsen el crecimiento y la eficiencia operativa.
 
 
 ## 🌐 Socials:
