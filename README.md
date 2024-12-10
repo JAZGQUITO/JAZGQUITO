@@ -1,6 +1,5 @@
 # 💫 About Me:
-Soy un administrador con más de 20 años de experiencia en gestión empresarial, incluyendo aduanas e importaciones. Durante 15 años lideré mi propio negocio, donde implementé análisis financieros y optimicé la toma de decisiones estratégicas. Mi objetivo es aplicar el análisis de datos para aportar soluciones empresariales que impulsen el crecimiento y la eficiencia operativa.
-
+Soy un analista de datos apasionado por transformar datos en insights útiles para la toma de decisiones. Tengo formación en Python, SQL y visualización de datos, y he realizado proyectos académicos que incluyen la limpieza, análisis y visualización de grandes volúmenes de datos. Mi objetivo es aprender y crecer en el campo, contribuyendo al equipo con habilidades en análisis de datos y generación de reportes para optimizar procesos y detectar oportunidades de mejora.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100005938005059) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jesus-alexis-zambrano-guzman/) 
